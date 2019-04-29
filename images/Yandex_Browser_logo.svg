@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:red}
+        </style>
+    </defs>
+    <g id="Yandex_Browser_logo" transform="translate(-1.158 -1.167)">
+        <circle id="circle4492" cx="18" cy="18" r="18" class="cls-1" transform="translate(1.158 1.167)"/>
+        <path id="path4496" d="M11.954 9.508l-3.346 3.344 9.78 9.775v11.62h4.732V22.614l9.769-9.762-3.345-3.344-8.8 8.79-8.794-8.79" class="cls-2" transform="translate(-1.574 -1.766)"/>
+    </g>
+</svg>

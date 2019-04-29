@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.179" height="35" viewBox="0 0 49.179 35">
+    <defs>
+        <style>
+            .cls-1{fill:#729344}.cls-2{fill:#99c45a}
+        </style>
+    </defs>
+    <g id="amulex_simple_ru" transform="translate(-139.611 -745)">
+        <g id="Group_1" data-name="Group 1" transform="translate(139.61 745)">
+            <g id="Group_4" data-name="Group 4">
+                <path id="Path_39" d="M3.619 35L24.093 0l25.085 35L0 14.872l39.065 10.956-14.972-14.773z" class="cls-1" data-name="Path 39"/>
+                <path id="Path_40" d="M7.3 35L27.774 6.693V0z" class="cls-2" data-name="Path 40" transform="translate(-3.681)"/>
+                <path id="Path_41" d="M48.6 13.5v4.362l14.972 14.773z" class="cls-2" data-name="Path 41" transform="translate(-24.507 -6.807)"/>
+                <path id="Path_42" d="M0 30l42.238 14.426 6.941 5.7" class="cls-2" data-name="Path 42" transform="translate(0 -15.128)"/>
+                <path id="Path_43" d="M7.3 41.807l20.474-23.945V13.5z" class="cls-1" data-name="Path 43" transform="translate(-3.681 -6.807)"/>
+            </g>
+        </g>
+    </g>
+</svg>

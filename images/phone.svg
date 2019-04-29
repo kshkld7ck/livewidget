@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_400" width="24" height="24" data-name="Group 400" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#818181;stroke-width:1.5px}.cls-2{fill:none}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Rectangle_244" class="cls-1" data-name="Rectangle 244" transform="translate(4 1)">
+        <rect width="16" height="22" class="cls-3" rx="4"/>
+        <rect width="14.5" height="20.5" x=".75" y=".75" class="cls-2" rx="3.25"/>
+    </g>
+    <g id="Rectangle_245" class="cls-1" data-name="Rectangle 245" transform="translate(6 3)">
+        <rect width="12" height="17" class="cls-3" rx="2"/>
+        <rect width="10.5" height="15.5" x=".75" y=".75" class="cls-2" rx="1.25"/>
+    </g>
+    <g id="Ellipse_15" class="cls-1" data-name="Ellipse 15" transform="translate(9.5 16)">
+        <circle cx="2.5" cy="2.5" r="2.5" class="cls-3"/>
+        <circle cx="2.5" cy="2.5" r="1.75" class="cls-2"/>
+    </g>
+    <path id="Rectangle_243" d="M0 0h24v24H0z" class="cls-2" data-name="Rectangle 243"/>
+</svg>

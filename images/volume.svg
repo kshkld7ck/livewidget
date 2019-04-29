@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none !important}.cls-2,.cls-4{fill:none !important}.cls-3,.cls-4{stroke:#fff !important;stroke-width:1.5px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Symbol_1_1" data-name="Symbol 1 – 1" transform="translate(-1704 -497)">
+        <path id="Path_904" d="M9 0a8.761 8.761 0 0 1 9 8.5A8.761 8.761 0 0 1 9 17z" class="cls-1" data-name="Path 904" transform="translate(1707 501)"/>
+        <path id="Rectangle_243" d="M0 0h24v24H0z" class="cls-2" data-name="Rectangle 243" transform="translate(1704 497)"/>
+        <g id="Rectangle_249" class="cls-3" data-name="Rectangle 249">
+            <path d="M4 0h2v10.758H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4z" class="cls-5" transform="translate(1706 504)"/>
+            <path d="M4 .75h.5a.75.75 0 0 1 .75.75v7.758a.75.75 0 0 1-.75.75H4a3.25 3.25 0 0 1-3.25-3.25V4A3.25 3.25 0 0 1 4 .75z" class="cls-2" transform="translate(1706 504)"/>
+        </g>
+        <g id="Rectangle_252" class="cls-3" data-name="Rectangle 252">
+            <path d="M4 0h2v16.758H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4z" class="cls-5" transform="translate(1710 501)"/>
+            <path d="M4 .75h.5a.75.75 0 0 1 .75.75v13.758a.75.75 0 0 1-.75.75H4a3.25 3.25 0 0 1-3.25-3.25V4A3.25 3.25 0 0 1 4 .75z" class="cls-2" transform="translate(1710 501)"/>
+        </g>
+        <g id="Rectangle_251" class="cls-3" data-name="Rectangle 251">
+            <path d="M0 0h2a3 3 0 0 1 3 3 3 3 0 0 1-3 3H0V0z" class="cls-5" transform="translate(1714.5 506.379)"/>
+            <path d="M1.269.75H2A2.25 2.25 0 0 1 4.25 3 2.25 2.25 0 0 1 2 5.25h-.731a.519.519 0 0 1-.519-.519V1.269A.519.519 0 0 1 1.269.75z" class="cls-2" transform="translate(1714.5 506.379)"/>
+        </g>
+        <path id="Path_818" d="M12 2.482c2.134 0 6.273 1.166 6.244 5.677S14.087 13.933 12 13.928" class="cls-4" data-name="Path 818" transform="translate(1704 501.236)"/>
+    </g>
+</svg>

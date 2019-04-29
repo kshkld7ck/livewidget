@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{opacity:.496}.cls-2{fill:none}.cls-3,.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_409" class="cls-1" data-name="Group 409" transform="translate(-1621 -494)">
+        <g id="Path_902" class="cls-2" data-name="Path 902">
+            <path d="M12 0A12 12 0 1 1 0 12 12 12 0 0 1 12 0z" class="cls-3" transform="translate(1621 494)"/>
+            <path d="M12 3c-4.963 0-9 4.037-9 9s4.037 9 9 9 9-4.037 9-9-4.037-9-9-9m0-3c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0z" class="cls-4" transform="translate(1621 494)"/>
+        </g>
+        <path id="Path_903" d="M.47 2.63h23.2v4.382H.47z" data-name="Path 903" transform="rotate(-45 1427.469 -1701.442)"/>
+    </g>
+</svg>
